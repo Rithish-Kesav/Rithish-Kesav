@@ -11,7 +11,7 @@
 I'm Rithish Kesav S from India, currently living in Coimbatore. I'm a senior year undergraduate student studying Electronics and Communication Engineering at PSG College of Technology.
 
 ## Tech stuff I'm into ⚡
-[!python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
 
 - Blockchain Technology and the Cryptospace
 - Programming languages I'm comfortable with are **Python, HTML, CSS, C**
