@@ -4,9 +4,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@RithishKesav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RithishKesav)](https://twitter.com/RithishKesav) 
 [![Linkedin Badge](https://img.shields.io/badge/-Rithish Kesav S-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rithish-kesav-s-9b909b187/)](https://www.linkedin.com/in/rithish-kesav-s-9b909b187/)
-[![iCloud Badge](https://img.shields.io/endpoint?color=black&label=rithishofficial%40icloud.com&logo=icloud&logoColor=blue&style=social&url=mailto%3Arithishofficial%40icloud.com](mailto%3Arithishofficial%40icloud.com)
-
-https://img.shields.io/endpoint?color=black&label=rithishofficial%40icloud.com&logo=icloud&logoColor=blue&style=social&url=mailto%3Arithishofficial%40icloud.com
+[![icloud Badge](https://img.shields.io/endpoint?color=black&label=rithishofficial@icloud.com&logo=icloud&logoColor=blue&style=social&url=mailto:rithishofficial@icloud.com)](mailto:rithishofficial@icloud.com)
 
 
 I'm Minal Vaity from India, currently living in Chicago. I'm a second year graduate student studying master's degree in Information Technology and Management at Illinois Institute of Technology.
