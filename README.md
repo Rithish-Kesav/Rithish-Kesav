@@ -12,6 +12,10 @@ I'm Rithish Kesav S from India, currently living in Coimbatore. I'm a senior yea
 
 ## Tech stuff I'm into ⚡
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
 - Blockchain Technology and the Cryptospace
 - Programming languages I'm comfortable with are **Python, HTML, CSS, C**
