@@ -25,11 +25,12 @@ I'm Rithish Kesav S from India, currently living in Coimbatore. I'm a senior yea
 - Programming languages I'm getting comfortable with are **JavaScript, Swift, NodeJS, Solidity**
 - I've developed web and mobile applications using **Python and Swift** for now
 
-## I don't stop talking about 🤔
-- Cryptocurrencies and DeFi 
-- Gaming
-- Series
-- Movies
+## I don't stop talking about 😌
+
+- Cryptocurrencies and DeFi 💲
+- Gaming 🕹️
+- Series 📺
+- Movies 🎥
 - Hit me up with anything, I love random conversations 💬 
 - My professional email ID: rithishofficial@icloud.com 📫
 - My personal email ID: rithish4ever@gmail.com 📫
