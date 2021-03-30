@@ -13,8 +13,8 @@ I'm Rithish Kesav S from India, currently living in Coimbatore. I'm a senior yea
 ## Tech stuff I'm into ⚡
 
 - Blockchain Technology and the Cryptospace
-- Programming languages I'm comfortable with **Python, HTML, CSS, C**
-- Programming languages I'm getting comfortable with **JavaScript, Swift, NodeJS, Solidity**
+- Programming languages I'm comfortable with are **Python, HTML, CSS, C**
+- Programming languages I'm getting comfortable with are **JavaScript, Swift, NodeJS, Solidity**
 - I've developed web and mobile applications using **Python and Swift** for now
 
 ## I don't stop talking about 🤔
