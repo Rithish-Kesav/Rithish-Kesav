@@ -34,7 +34,7 @@ I'm Rithish Kesav S from India, currently living in Coimbatore. I'm a senior yea
 - Hit me up with anything, I love random conversations 💬 
 - My professional email ID: rithishofficial@icloud.com 📫
 - My personal email ID: rithish4ever@gmail.com 📫
-- My portfolio site: [Portfolio](https://rithish.github.io)
+- My portfolio site: [Portfolio](https://github.com/Rithish-Kesav)
 
 
 
