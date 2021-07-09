@@ -8,7 +8,7 @@
 [![Instagram Badge](https://img.shields.io/badge/@iamrithish-E4405F?style=flat-sqaure&logo=instagram&logoColor=white&url=https://www.instagram.com/iamrithish/)](https://www.instagram.com/iamrithish/)
 
 
-I'm Rithish Kesav. S from India, currently living in Coimbatore. I've graduated with a bachelors in Electronics and Communication Engineering at PSG College of Technology.
+I'm Rithish Kesav. S from India, currently living in Coimbatore. I've graduated with a bachelors in Electronics and Communication Engineering from PSG College of Technology.
 
 ## Tech stuff I'm into ⚡
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
