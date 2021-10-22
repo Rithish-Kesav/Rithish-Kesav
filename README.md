@@ -8,7 +8,7 @@
 [![Instagram Badge](https://img.shields.io/badge/@iamrithish-E4405F?style=flat-sqaure&logo=instagram&logoColor=white&url=https://www.instagram.com/iamrithish/)](https://www.instagram.com/iamrithish/)
 
 
-I'm Rithish Kesav. S from India, currently living in Tempe, AZ. I'm a Graduate student at Arizona State University majoring in Computer Science
+I'm Rithish Kesav. S from India, currently living in Tempe, AZ. I'm a Graduate student at Arizona State University majoring in Computer Science.
 
 ## Tech stuff I'm into ⚡
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -21,9 +21,9 @@ I'm Rithish Kesav. S from India, currently living in Tempe, AZ. I'm a Graduate s
 ![Solidity Badge](https://img.shields.io/badge/Solidity-FFFFF?style=flat-square&logo=solidity&logoColor=black)
 
 - Blockchain Technology and the Cryptospace
-- Programming languages I'm comfortable with are **Python, HTML, CSS, C**
-- Programming languages I'm getting comfortable with are **JavaScript, Swift, NodeJS, Solidity**
-- I've developed web and mobile applications using **Python and Swift** for now
+- Programming languages I'm comfortable with are **Python, Swift, HTML, CSS, C**
+- Programming languages I'm getting comfortable with are **JavaScript, NodeJS, Solidity**
+- I've developed web and mobile applications using **Python and Swift**
 
 ## I don't stop talking about 😌
 
