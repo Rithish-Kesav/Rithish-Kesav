@@ -9,17 +9,18 @@
 [![Instagram Badge](https://img.shields.io/badge/@iamrithish-E4405F?style=flat-sqaure&logo=instagram&logoColor=white&url=https://www.instagram.com/iamrithish/)](https://www.instagram.com/iamrithish/)
 
 
-I'm Rithish from India, currently living in Tempe, Arizona. I'm a Graduate student at Arizona State University majoring in Computer Science.
+My name is Rithish and I'm from India, currently living in Tempe, Arizona. 
+I'm a Graduate student at Arizona State University majoring in Computer Science who is a UI/ UX Development intern at Mohawk Industries, Calhoun, Georgia
 
 ## Tech stuff I'm into 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML Badge](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![C Badge](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Solidity Badge](https://img.shields.io/badge/Solidity-FFFFF?style=flat-square&logo=solidity&logoColor=black)
+![HTML Badge](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
+
 
 - Blockchain Technology and the Cryptospace
 - Programming languages I'm comfortable with are **Python, Swift, HTML, CSS, C**
