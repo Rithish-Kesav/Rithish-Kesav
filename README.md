@@ -23,8 +23,8 @@ I'm a Graduate student at Arizona State University majoring in Computer Science 
 
 
 - Blockchain Technology and the Cryptospace
-- Programming languages I'm comfortable with are **Python, Swift, HTML, CSS, C**
-- Programming languages I'm getting comfortable with are **JavaScript, NodeJS, Solidity**
+- Programming languages I'm comfortable with are **Python, Swift, HTML, CSS**
+- Programming languages I'm getting comfortable with are **JavaScript, Angular, and NodeJS**
 - I've developed web and mobile applications using **Python and Swift**
 
 ## I don't stop talking about
