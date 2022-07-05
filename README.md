@@ -1,4 +1,4 @@
-<h2> Hey,  I'm Rithish  <img src="https://clintbird.com/images/posts/2017/gifs-2.gif" width="5px"> </h2>
+<h2> Hey,  I'm Rithish!  <img src="https://clintbird.com/images/posts/2017/gifs-2.gif" width="1px"> </h2>
 
 <img align='right' src='https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none' width='50"'>
 
