@@ -1,6 +1,6 @@
 <h2> Hey,  I'm Rithish  <img src="https://clintbird.com/images/posts/2017/gifs-2.gif" width="50px"> </h2>
 
-<img align='right' src='https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none' width='20"'>
+<img align='right' src='https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none' width='2"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@RithishKesav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RithishKesav)](https://twitter.com/RithishKesav) 
 [![Linkedin Badge](https://img.shields.io/badge/-RithishKesavS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rithish-kesav-s-9b909b187/)](https://www.linkedin.com/in/rithish-kesav-s-9b909b187/) 
