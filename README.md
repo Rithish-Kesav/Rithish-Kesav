@@ -10,7 +10,7 @@
 
 
 My name is Rithish and I'm from India, currently living in Tempe, Arizona. 
-I'm a Graduate student at Arizona State University majoring in Computer Science who is a UI/ UX Development intern at Mohawk Industries, Calhoun, Georgia
+I'm a Graduate student at Arizona State University majoring in Computer Science currently also a UI Development intern at Mohawk Industries, Calhoun, Georgia
 
 ## Tech stuff I'm into 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
