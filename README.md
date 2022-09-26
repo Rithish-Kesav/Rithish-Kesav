@@ -4,7 +4,7 @@
 <img align='right' src='https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none' width='10"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@RithishKesav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RithishKesav)](https://twitter.com/RithishKesav) 
-[![Linkedin Badge](https://img.shields.io/badge/-RithishKesavS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rithish-kesav-s-9b909b187/)](https://www.linkedin.com/in/rithish-kesav-s-9b909b187/) 
+[![Linkedin Badge](https://img.shields.io/badge/-RithishKesavS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rithish-kesav-s-9b909b187/)](https://www.linkedin.com/in/rithish-kesav-9b909b187/) 
 [![icloud Badge](https://img.shields.io/badge/-rithishofficial@icloud.com-black?color=black&logo=icloud&logoColor=blue&style=flat-square&url=mailto:rithishofficial@icloud.com)](mailto:rithishofficial@icloud.com)
 [![Instagram Badge](https://img.shields.io/badge/@iamrithish-E4405F?style=flat-sqaure&logo=instagram&logoColor=white&url=https://www.instagram.com/iamrithish/)](https://www.instagram.com/iamrithish/)
 
