@@ -35,7 +35,6 @@ I'm a Graduate student at Arizona State University majoring in Computer Science 
 - Movies 🎥
 - Hit me up with anything, I love random conversations 💬 
 - My professional email ID: rithishofficial@icloud.com 📫
-- My personal email ID: rithish4ever@gmail.com 📫
 - My portfolio site: [Portfolio](https://github.com/Rithish-Kesav)
 
 
