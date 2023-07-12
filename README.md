@@ -9,8 +9,8 @@
 [![Instagram Badge](https://img.shields.io/badge/@iamrithish-E4405F?style=flat-sqaure&logo=instagram&logoColor=white&url=https://www.instagram.com/iamrithish/)](https://www.instagram.com/iamrithish/)
 
 
-My name is Rithish and I'm from India, currently living in Tempe, Arizona. 
-I'm a Graduate student at Arizona State University majoring in Computer Science currently also a UI Development intern at Mohawk Industries, Calhoun, Georgia
+My name is Rithish and I'm from India, currently living in Nashville, Tennessee. 
+I'm currently a Junior Full Stack Developer at Kanini Software Solutions, Nashville, Tennessee.
 
 ## Tech stuff I'm into 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
