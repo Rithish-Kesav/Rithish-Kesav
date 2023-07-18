@@ -9,7 +9,7 @@
 [![Instagram Badge](https://img.shields.io/badge/@iamrithish-E4405F?style=flat-sqaure&logo=instagram&logoColor=white&url=https://www.instagram.com/iamrithish/)](https://www.instagram.com/iamrithish/)
 
 
-My name is Rithish and I'm from India, currently living in Nashville, Tennessee. 
+My name is Rithish. I'm living in Nashville, Tennessee. 
 I'm currently a Junior Full Stack Developer at Kanini Software Solutions, Nashville, Tennessee.
 
 ## Tech stuff I'm into 
