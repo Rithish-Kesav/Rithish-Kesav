@@ -10,7 +10,7 @@
 
 
 My name is Rithish. I'm living in Nashville, Tennessee. 
-I'm currently a Junior Full Stack Developer at Kanini Software Solutions, Nashville, Tennessee.
+I'm currently a DevOps Engineer at Kanini Software Solutions, Nashville, Tennessee.
 
 ## Tech stuff I'm into 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
