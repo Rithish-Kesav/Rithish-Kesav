@@ -14,6 +14,8 @@ I'm currently a DevOps Engineer at Kanini Software Solutions, Nashville, Tenness
 
 ## Tech stuff I'm into 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS Badge](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
@@ -21,21 +23,38 @@ I'm currently a DevOps Engineer at Kanini Software Solutions, Nashville, Tenness
 ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white)
 
+## Expertise in Technology 🌐
 
-- Blockchain Technology and the Cryptospace
-- Programming languages I'm comfortable with are **Python, Swift, HTML, CSS**
-- Programming languages I'm getting comfortable with are **JavaScript, Angular, and NodeJS**
-- I've developed web and mobile applications using **Python and Swift**
+**Proficient In:** 
+- Python
+- Angular 
+- Swift 
+- HTML 
+- CSS 
 
-## I don't stop talking about
+**Currently Mastering:** 
+- AWS 
+- Terraform 
+- Kubernetes 
+- JavaScript 
+- NodeJS
 
-- Cryptocurrencies and DeFi 💲
-- Gaming 🕹️
-- Series 📺
-- Movies 🎥
-- Hit me up with anything, I love random conversations 💬 
-- My professional email ID: rithishofficial@icloud.com 📫
-- My portfolio site: [Portfolio](https://github.com/Rithish-Kesav)
+## Passionate About 💡
+- **Blockchain & Crypto:** Advancements in the ecosystem.
+- **Cloud Deployment:** Harnessing the power of the cloud to optimize application delivery.
+- **Application Development:** Creating cutting-edge web & mobile applications using Python and Swift.
+
+## Always Up For A Chat About 🎙
+- **Cryptocurrencies & DeFi:** The transformative power.
+- **Gaming:** Latest trends.
+- **TV Series:** Must-watch suggestions.
+- **Cinema:** Newest offerings.
+
+## Engage Me 📞
+- For intriguing conversations and out-of-the-box ideas, feel free to drop a line.
+- **Professional Email:** [rithishofficial@icloud.com](mailto:rithishofficial@icloud.com)
+- **Explore My Work:** [Portfolio](https://github.com/Rithish-Kesav)
+
 
 
 
